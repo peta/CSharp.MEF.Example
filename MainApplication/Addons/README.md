@@ -1,0 +1,1 @@
+﻿My sole purpose is to be copied to build output folder so that my parent directory gets created ;-)
